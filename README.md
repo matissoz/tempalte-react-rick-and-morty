@@ -17,7 +17,7 @@ This project focuses on developing a web application using React to explore char
 - **Axios**: Use Axios for making HTTP requests to the Rick and Morty API.
 - **TanStack Router**: Implement routing using TanStack Router for navigating between views.
 - **TanStack Query**: Use TanStack Query for efficient data fetching, caching, and state management.
-- **Ant Design (AntD)**: Use Ant Design components for building the UI.
+- **Ant Design (AntD) or any other UI library of your choice**: Use Ant Design components for building the UI.
 - **Debouncing**: Apply debouncing techniques to filtering inputs to reduce the number of API requests made while typing.
 
 ## Getting Started
